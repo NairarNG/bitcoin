@@ -17,3 +17,18 @@ License
 
 Nairar core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+Development Process
+-------------------
+
+The `master` branch is regularly built and tested, but is not guaranteed to be
+completely stable. [Tags](https://github.com/nairar-project/nairar/tags) are created
+regularly to indicate new official, stable release versions of Nairar Core.
+
+The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+The developer [mailing list](https://amsarku.com
+should be used to discuss complicated or controversial changes before working
+on a patch set.
+
+Developer IRC can be found on Freenode at #nairar-core-dev.
